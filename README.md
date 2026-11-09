@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="RR_Logo_2026.png" alt="Rajan Robotics Logo" width="180">
+</p>
+
 # 🤖 Rajan Robotics — Arduino OLED Display Animation
 
 **Vision to Reality** | *Practical Learning in Embedded Systems & Robotics*
@@ -23,7 +27,11 @@ An interactive Arduino sketch designed for a **0.91-inch (128×32) I2C OLED disp
 
 ---
 
-## 🔌 Circuit Wiring (I2C)
+## 🔌 Circuit Wiring Diagram
+
+<p align="center">
+  <img src="RR_LOGO_reval%20on%20OLED%20with%20Arduino.jpeg" alt="Rajan Robotics Arduino OLED Wiring Diagram" width="650">
+</p>
 
 | OLED Pin | Arduino Uno / Nano Pin | Description |
 | :--- | :--- | :--- |
@@ -45,7 +53,7 @@ Before compiling, install the following libraries via **Arduino IDE → Sketch �
 
 ## 🚀 Quick Start & Configuration
 
-1. Clone or download this repository and open `Rajan_Robotics_OLED_Reel.ino` in the **Arduino IDE**.
+1. Download `RR_Arduino_OLED_Logo_Animation.ino` from this repository and open it in the **Arduino IDE**.
 2. Verify the I2C address and screen dimensions at the top of the sketch:
    ```cpp
    #define SCREEN_WIDTH 128
