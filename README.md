@@ -66,7 +66,7 @@ Before compiling, install the following libraries via **Arduino IDE → Sketch �
 
 ## 🌐 Connect with Rajan Robotics
 
-* **GitHub:** [://github.com](https://://github.com)
+* **GitHub:** [://github.com]((https://://github.com](https://github.com/rajanrobotics05-RR))
 * **Motto:** *Vision to Reality — Practical Learning*
 
 ---
